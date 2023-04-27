@@ -1,6 +1,6 @@
 # Getting started with Movie App
 
-This app is hosted at: https://lambent-youtiao-a9e9cd.netlify.app
+This app is hosted at: https://movie-app-kappa-neon.vercel.app/
 
 1. Open your IDE and navigate to the desired project location.
 2. Clone the project by executing the following command in your terminal: git clone.
